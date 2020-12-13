@@ -1,18 +1,20 @@
 import './App.css';
-import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import React from 'react';
+import About from './components/pages/About';
+import Portfolio from './components/pages/Portfolio';
+import { Route, Switch } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-class App extends Component {
-  render() {
+function App() {
+
     return (
-      <Router>
-        <div>
-        <h1> hello world</h1>
-        </div>
-      </Router>
+      <Switch>
+          <Route  path='/' component={About} exact/>
+          <Route  path='/portfolio' component={Portfolio} />
+      </Switch>
 
     );
-  }
+
 }
 
 
