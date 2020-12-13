@@ -10,7 +10,7 @@ import WeatherDash from '../images/WeatherDash.PNG';
 import CodeQuiz from '../images/CodeQuiz.PNG';
 import Earthquake from '../images/Earthquake.PNG';
 import Planner from '../images/Planner.PNG';
-import RandomPW from '../images/RandomPW.PNG';
+import GoogleBooks from '../images/LandingPage.PNG';
 
 class About extends Component {
     render() {
@@ -73,11 +73,11 @@ class About extends Component {
                     </Col>
                     <Col>
                         <Project
-                            src={RandomPW}
-                            title={"Random Password Generator"}
-                            description={"Generates a randon password based on the user's specifications."}
-                            ghhref={"https://github.com/wilbur125/Random_PW_Generator"}
-                            dhref={"https://wilbur125.github.io/Random_PW_Generator/"}
+                            src={GoogleBooks}
+                            title={"Google Books Search"}
+                            description={"Users can search and save books they found in the Google Books API."}
+                            ghhref={"https://github.com/wilbur125/Google_Books_Searchr"}
+                            dhref={"https://w125-google-books-search.herokuapp.com/"}
                         />  
                     </Col>
                 </Row>
