@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.cfb43954.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.21ed2a29.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.21ed2a29.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.aab1c8b0.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.aab1c8b0.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.90cf3940.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.90cf3940.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/react-portfolio/static/css/2.20aa2d7b.chunk.css",
@@ -16,8 +16,8 @@
     "static/js/2.c2c29876.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c2c29876.chunk.js.LICENSE.txt",
     "static/media/CodeQuiz.31856291.PNG": "/react-portfolio/static/media/CodeQuiz.31856291.PNG",
     "static/media/Earthquake.59d4c73a.PNG": "/react-portfolio/static/media/Earthquake.59d4c73a.PNG",
+    "static/media/LandingPage.f3d50068.PNG": "/react-portfolio/static/media/LandingPage.f3d50068.PNG",
     "static/media/Planner.561a36ed.PNG": "/react-portfolio/static/media/Planner.561a36ed.PNG",
-    "static/media/RandomPW.5d304209.PNG": "/react-portfolio/static/media/RandomPW.5d304209.PNG",
     "static/media/Vent.df611f19.PNG": "/react-portfolio/static/media/Vent.df611f19.PNG",
     "static/media/WeatherDash.c64f5f65.PNG": "/react-portfolio/static/media/WeatherDash.c64f5f65.PNG",
     "static/media/profile.841109bf.jpg": "/react-portfolio/static/media/profile.841109bf.jpg"
@@ -27,6 +27,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.c2c29876.chunk.js",
     "static/css/main.cfb43954.chunk.css",
-    "static/js/main.21ed2a29.chunk.js"
+    "static/js/main.aab1c8b0.chunk.js"
   ]
 }
