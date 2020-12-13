@@ -7,11 +7,13 @@ import Footer from '../footer/Footer';
 import Profile from '../profile/Profile';
 import AboutMe from '../aboutme/AboutMe';
 
+import "../style/style.css";
+
 
 class About extends Component {
     render() {
         return (
-            <Container>
+            <Container class="container">
                 <Row>
                     <Col>
                         <Header/>
